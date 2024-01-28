@@ -30,6 +30,13 @@
 - **Linkedin**: [Albane CARTERON](www.linkedin.com/in/albane-carteron)
 
 
+<br></br>
+
+<p align="center">
+  <strong>↓ Checkout my repo ↓</strong>
+</p>
+
+
 <!---
 AlbaneCar/AlbaneCar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
