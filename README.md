@@ -21,7 +21,7 @@
 
 - **HTML**: for web development
 - **Java**: for backend development and Android applications
-- **JavaScript**: for frontend and backend development
+- **JavaScript**: for frontend development
 - **PHP**: for server-side scripting and web development
 - **C#**: for Windows application development and backend development with .NET
 
