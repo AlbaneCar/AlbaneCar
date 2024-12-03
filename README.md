@@ -11,33 +11,46 @@
 </p>
 
 <p align="center">
-  I am a student in an engineering school specializing in electronics and computer science.
+  I am a student at an engineering school, specializing in electronics and computer science.
 </p>
 
 <br></br>
 
+## 🖥️ Technologies & Skills
 
-## 🖥️ Technologies I Use
+Here are the technologies and tools I frequently work with:
 
-- **HTML**: for web development
-- **Java**: for backend development and Android applications
-- **JavaScript**: for frontend development
-- **PHP**: for server-side scripting and web development
-- **C#**: for Windows application development and backend development with .NET
+- **Frontend Development**:
+  - **JavaScript**: Building interactive and dynamic web pages.
+  - **Vue.js**: Developing modern and responsive user interfaces.
+  - **HTML & CSS**: Structuring and styling web content.
+  
+- **Backend Development**:
+  - **Java**: Writing robust backend applications and Android development.
+  - **PHP**: Creating dynamic websites and web applications.
+  - **MySQL**: Working with databases to store and manage data.
 
-## 🔗 Keep in touch
+- **Mobile Development**:
+  - **Kotlin**: Building modern, efficient, and performant Android applications.
+  - **Jetpack Compose**: Developing intuitive and responsive UIs for Android apps.
+  - **Flutter**: Creating cross-platform mobile applications for both Android.
 
-- **Linkedin**: [Albane CARTERON](www.linkedin.com/in/albane-carteron)
+- **DevOps & System Administration**:
+  - **JWT**: Implementing secure authentication and authorization.
 
+- **Project Management**:
+  - **Scrum**: Managing projects and sprints, ensuring efficient teamwork and timely delivery.
 
-<br></br>
+---
+
+## 🔗 Let's Connect!
+
+You can reach out to me or follow my updates here:
+
+- **LinkedIn**: [Albane CARTERON](https://www.linkedin.com/in/albane-carteron)
+
+---
 
 <p align="center">
-  <strong>↓ Checkout my repo ↓</strong>
+  <strong>↓ Checkout my repos below ↓</strong>
 </p>
-
-
-<!---
-AlbaneCar/AlbaneCar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
